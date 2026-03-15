@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(find '/Users/shinya/Desktop/Saido/p5 pitch detection visualisation/p5-pitch-detection-react' -not -path */node_modules/* -not -path */.git/* -not -path */dist/* -not -path */.claude/*)"
+    ]
+  }
+}
